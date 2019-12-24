@@ -1,0 +1,5 @@
+{
+    "payment_description": "№:payment, :plan, :period",
+    "payment_description_months": "{1} :value месяц|[2,4] :value месяца|[5,*] :value месяцев",
+    "payment_description_yearly": "{1} :value год|[2,4] :value года|[5,*] :value лет"
+}
